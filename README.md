@@ -24,10 +24,10 @@ A one stop solution to hassle free conferences in a click.The project has been b
 
 ```
 # clone the repository to your local machine
-$ git clone `git clone https://github.com/<YOUR-GITHUB-USERNAME>/Microsoft-cloning.git`
+$ git clone `git clone https://github.com/<YOUR-GITHUB-USERNAME>/Unified.git`
 
 # navigate to the project's directory and install all the relevant dev-dependencies
-$ cd Microsoft-cloning && npm intsall
+$ cd Unified && npm intsall
 
 # Start application
 $ npm start
